@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nombre Alumno on Nombre Apellido - MID 2021</title>
-    <link>http://arturoschofield_cye.github.io/</link>
-    <description>Recent content in Nombre Alumno on Nombre Apellido - MID 2021</description>
+    <title>Nombre Alumno on ArturoSchofield - MID 2021</title>
+    <link>http://arturoschofield_ce.github.io/</link>
+    <description>Recent content in Nombre Alumno on ArturoSchofield - MID 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="http://arturoschofield_cye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="http://arturoschofield_ce.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketchs propuestas de proyecto</title>
-      <link>http://arturoschofield_cye.github.io/docs/encargo1/</link>
+      <link>http://arturoschofield_ce.github.io/docs/encargo1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://arturoschofield_cye.github.io/docs/encargo1/</guid>
+      <guid>http://arturoschofield_ce.github.io/docs/encargo1/</guid>
       <description>primeras ideas de un proyecto para apoyar la crisis hidrica</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>http://arturoschofield_cye.github.io/docs/ejemplo/</link>
+      <link>http://arturoschofield_ce.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://arturoschofield_cye.github.io/docs/ejemplo/</guid>
+      <guid>http://arturoschofield_ce.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>http://arturoschofield_cye.github.io/docs/markdown/</link>
+      <link>http://arturoschofield_ce.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://arturoschofield_cye.github.io/docs/markdown/</guid>
+      <guid>http://arturoschofield_ce.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
